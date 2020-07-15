@@ -1,0 +1,31 @@
+
+h1{ color:pink;
+ } /*Le premier h a la couleur du serveur apache*/
+
+ .premier {
+ 	color: blue;
+ }
+ .premier {
+ 	font-size: 10px;
+ 	font-style: italic
+ 	line- height: 25 ;
+ }
+ .deuxieme{
+ 	font-size: 25px
+ 	font-style: normal;
+ 	font-weight: bolder;
+ }
+ .troixieme{
+ 	font-size: 55px
+ 	font-style: oblique;
+ 	   }
+
+ .motunix {
+ 	color: purple;
+ } /* il me permet de mettre un seul terme avec une couleur specifique grace au code span class*/
+ * /* etoile me permet de selectionner tout mes elements de ma page*/
+ A, B { 
+ color : red 
+;
+	
+ }

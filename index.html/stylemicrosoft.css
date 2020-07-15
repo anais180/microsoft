@@ -1,0 +1,19 @@
+nav  {
+   display: inline-block;
+   position: right;
+   text-align: center;
+}
+body{
+    background-color: darkslategray;
+    text-decoration-color: floralwhite;
+}
+
+nav ul {
+    list-style-type:none; 
+}
+nav li {
+    display: inline-block;
+    margin-right: 30px;
+    background-color: chocolate;
+    padding: 20px;
+}
